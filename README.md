@@ -16,7 +16,7 @@ Quick introduction of Application
 
 
 ## Contact
-If you want to contact me you can reach me at banda_adrian@outlook.com
+If you want to contact me you can reach me at njethur@gmail.com
 
 ## Links
 [Heroku](https://safe-shore-27660.herokuapp.com/)  
